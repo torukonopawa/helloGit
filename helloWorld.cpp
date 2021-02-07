@@ -31,5 +31,7 @@ int main() {
         cout << "---- ---- ---- ----" << endl;
     }
     
+    system("Pause");
+
     return 0;
 }
